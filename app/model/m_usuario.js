@@ -10,6 +10,9 @@
              unique: true,
              required: true
          }
+     },
+     {
+         versionKey: false
      }
  )
 
