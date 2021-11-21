@@ -1,6 +1,6 @@
 const express = require('express'); //importamos express
 const app = express();
-const puerto = 5001; //puerto por donde corre la app
+const puerto = 3001; //puerto por donde corre la app
 const rutass = require('./app/routes/usuario')
 const db = require('./config/db')
 
